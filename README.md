@@ -89,11 +89,10 @@ PDF Report Generation
 
 | Name | Role |
 |------|------|
-| A. Sai Chaturya | Team Leader |
-| Team Member | Member |
-| Team Member | Member |
-| Team Member | Member |
-| Team Member | Member |
+| Amjuri Sai Chaturya | Team Leader |
+| Jami Yuktasri | Member |
+| Patnana Mahesh | Member |
+| Vayalapalli Maneesha | Member |
 
 ---
 
