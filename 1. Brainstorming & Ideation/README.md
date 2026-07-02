@@ -1,1 +1,0 @@
-# Brainstorming and Ideation
