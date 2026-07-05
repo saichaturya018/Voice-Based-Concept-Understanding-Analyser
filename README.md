@@ -123,6 +123,64 @@ This project is developed under the **APSCHE Google Generative AI Cloud Program*
 ---
 
 <div align="center">
+---
+
+## ⚙️ Installation
+
+### Prerequisites
+- Python 3.9 or higher
+- pip (Python package manager)
+- FFmpeg installed and added to PATH (required by Whisper for audio decoding)
+- Git
+
+### Setup Steps
+
+1. **Clone the repository**
+```bash
+   git clone https://github.com/saichaturya018/Voice-Based-Concept-Understanding-Analyser.git
+   cd Voice-Based-Concept-Understanding-Analyser
+```
+
+2. **Create and activate a virtual environment**
+```bash
+   python -m venv venv
+
+   # Windows
+   venv\Scripts\activate
+
+   # macOS / Linux
+   source venv/bin/activate
+```
+
+3. **Install FFmpeg** (required by Whisper)
+```bash
+   # Windows (using Chocolatey)
+   choco install ffmpeg
+
+   # macOS (using Homebrew)
+   brew install ffmpeg
+
+   # Linux (Debian/Ubuntu)
+   sudo apt update && sudo apt install ffmpeg
+```
+
+4. **Install Python dependencies**
+```bash
+   pip install -r "5. Project Development Phase/requirements.txt"
+```
+
+5. **Download NLTK data (first run only)**
+```bash
+   python -m nltk.downloader punkt stopwords
+```
+
+6. **Run the application**
+```bash
+   streamlit run "5. Project Development Phase/app.py"
+```
+
+7. **Open in browser**
+   The app will open automatically at `http://localhost:8501`.
 
 ### Thank you for visiting our repository!
 

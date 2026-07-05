@@ -11,3 +11,7 @@ scikit-learn
 reportlab
 python-dotenv
 pytest
+torch
+transformers
+nltk
+fpdf2
