@@ -1,3 +1,0 @@
-"""
-Semantic Similarity Module
-"""

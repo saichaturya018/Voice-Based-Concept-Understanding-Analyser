@@ -1,3 +1,0 @@
-"""
-Frontend Home Page
-"""
