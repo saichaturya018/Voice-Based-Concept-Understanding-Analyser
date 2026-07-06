@@ -240,6 +240,83 @@ The application generates a professional and downloadable PDF report that summar
 
 <img width="1920" height="1017" alt="Screenshot 2026-07-06 211734" src="https://github.com/user-attachments/assets/8f1e5471-80c5-4dc5-a537-c3166d826255" />
 
+## 📂 Project Documentation
+
+This repository includes complete project documentation covering every phase of the development lifecycle:
+
+- 💡 Brainstorming & Ideation
+- 📋 Requirement Analysis
+- 🏗️ System Design
+- 📅 Project Planning
+- 💻 Development Phase
+- 🧪 Testing & Validation
+- 📖 Project Documentation
+- 🎥 Project Demonstration
+
+---
+
+## 🎓 Academic Information
+
+### **Project Title**
+**Voice-Based Concept Understanding Analyser**
+
+### **Domain**
+Artificial Intelligence | Machine Learning | Speech Processing | Natural Language Processing
+
+### **Institution**
+Anil Neerukonda Institute of Technology and Sciences (ANITS)
+
+### **Department**
+Computer Science and Engineering (Data Science)
+
+---
+
+## 🔮 Future Enhancements
+
+- 🌐 Multi-language speech support
+- ⚡ Real-time voice evaluation
+- ☁️ Cloud database integration
+- 🔐 User authentication and role-based access
+- 📈 Student performance analytics dashboard
+- 📱 Mobile application support
+- 👨‍🏫 Teacher analytics and report management
+- 🤖 Advanced AI-powered feedback generation
+- 📊 Historical performance tracking
+- 🎙️ Noise reduction and enhanced speech processing
+
+---
+
+## 👨‍💻 Project Team
+
+| Name | Role |
+|------|------|
+| **Amjuri Sai Chaturya** | **Team Leader** |
+| **Jami Yuktasri** | Member |
+| **Patnana Mahesh** | Member |
+| **Vayalapalli Maneesha** | Member |
+
+---
+
+## 📜 License
+
+This project is developed for educational and academic purposes.
+
+---
+
+## ⭐ Acknowledgements
+
+We sincerely thank the following organizations and technologies for supporting this project:
+
+- SmartBridge
+- Anil Neerukonda Institute of Technology and Sciences (ANITS)
+- Streamlit
+- Google Gemini AI
+- OpenAI Whisper
+- Sentence Transformers
+- Python Open Source Community
+- Flask
+- FFmpeg
+
 
 ### Thank you for visiting our repository!
 
