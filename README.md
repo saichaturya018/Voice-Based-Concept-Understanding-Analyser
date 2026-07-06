@@ -295,7 +295,7 @@ This project was collaboratively developed by the following team members as part
 | **Amjuri Sai Chaturya** | **Team Leader** | [@SaiChaturya](https://github.com/saichaturya018) |
 | **Jami Yuktasri** | Team Member | [@Yuktasri](https://github.com/jamiyuktasri24csd-afk) |
 | **Patnana Mahesh** | Team Member | [@Mahesh](https://github.com/maheshpatnana25) |
-| **Vayalapalli Maneesha** | Team Member | [@Maneesha](https://github.com/vayalapallimaneesha) |
+| **Vayalapalli Maneesha** | Team Member | [@Maneesha](https://github.com/maneesha2007) |
 
 
 ---
