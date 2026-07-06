@@ -182,54 +182,59 @@ This project is developed under the **APSCHE Google Generative AI Cloud Program*
 7. **Open in browser**
    The app will open automatically at `http://localhost:8501`.
    
-🎯 **Workflow**
+## 🎯 Workflow
 
-1. Open the Streamlit application.
-2. Upload the student's audio recording.
-3. Enter the expected answer.
-4. Convert speech to text using Whisper AI.
-5. Evaluate the answer using Google Gemini AI.
-6. Generate similarity percentage, score, and grade.
-7. View AI feedback, strengths, weaknesses, and suggestions.
-8. Download the PDF evaluation report.
+The application follows a simple and efficient workflow for evaluating a student's conceptual understanding:
 
+1. Launch the Streamlit application.
+2. Upload the student's audio response.
+3. Enter the expected answer for comparison.
+4. Convert the uploaded speech into text using **OpenAI Whisper**.
+5. Analyze and evaluate the response using **Google Gemini AI**.
+6. Generate the similarity percentage, score, and grade based on the evaluation.
+7. Display detailed AI feedback, including strengths, weaknesses, and improvement suggestions.
+8. Download a comprehensive PDF evaluation report.
 
-📸 **Application Screenshots**
+---
 
-1. Home Page
-Displays project information and available features.
+## 📸 Application Screenshots
 
+### 🏠 1. Home Page
+The home page provides an overview of the project, its objectives, and the key features available in the application.
 
 <img width="1773" height="946" alt="Screenshot 2026-07-06 211412" src="https://github.com/user-attachments/assets/31d2a3f4-fb8a-4713-ad61-4c0b98a00779" />
 
 <img width="1745" height="896" alt="Screenshot 2026-07-06 211423" src="https://github.com/user-attachments/assets/226f413a-3de1-4bec-b00a-71fcaff5f6d2" />
 
+---
 
-2. Upload Audio
-Upload the student's voice recording and provide the expected answer.
+### 🎤 2. Upload Audio
+Users can upload the student's voice recording and provide the expected answer that will be used as the reference for evaluation.
 
- <img width="1847" height="947" alt="Screenshot 2026-07-06 211510" src="https://github.com/user-attachments/assets/2e60653f-4701-4d94-a3f6-4ab8a2b3d992" />
+<img width="1847" height="947" alt="Screenshot 2026-07-06 211510" src="https://github.com/user-attachments/assets/2e60653f-4701-4d94-a3f6-4ab8a2b3d992" />
 
+---
 
-3. AI Analysis
-Speech is converted into text using Whisper AI and evaluated using Google Gemini AI.
+### 🤖 3. AI Analysis
+The uploaded audio is transcribed into text using **OpenAI Whisper**. The transcribed response is then evaluated by **Google Gemini AI** to assess the student's conceptual understanding.
 
 <img width="1868" height="939" alt="Screenshot 2026-07-06 211603" src="https://github.com/user-attachments/assets/58d447ca-8896-4471-896f-5fbf6c27955a" />
 
 <img width="1733" height="863" alt="Screenshot 2026-07-06 211618" src="https://github.com/user-attachments/assets/8818a52e-ca17-4316-8443-fabf161bbc2b" />
 
+---
 
-4. Dashboard
-Displays the similarity percentage, score, grade, transcript, and AI feedback.
+### 📊 4. Dashboard
+The dashboard presents the complete evaluation results, including the similarity percentage, score, grade, transcript, AI-generated feedback, strengths, weaknesses, and suggestions for improvement.
 
 <img width="1814" height="867" alt="Screenshot 2026-07-06 211640" src="https://github.com/user-attachments/assets/4ffc9f3c-8e8a-4c04-a84e-a2214b29ef47" />
 
 <img width="1839" height="946" alt="Screenshot 2026-07-06 211701" src="https://github.com/user-attachments/assets/691b52d6-2fe3-4f97-bc73-c2e853559a63" />
 
+---
 
-
-6. PDF Report
-Generates a downloadable professional PDF report containing the evaluation.
+### 📄 5. PDF Report
+The application generates a professional and downloadable PDF report that summarizes the complete evaluation. The report includes the student's transcript, similarity percentage, score, grade, AI-generated feedback, strengths, weaknesses, and suggestions for improvement.
 
 <img width="1824" height="939" alt="Screenshot 2026-07-06 211724" src="https://github.com/user-attachments/assets/9a6f14e0-653c-4f8f-9fb1-abbe6c5536ce" />
 
