@@ -183,6 +183,7 @@ This project is developed under the **APSCHE Google Generative AI Cloud Program*
    The app will open automatically at `http://localhost:8501`.
    
 🎯 **Workflow**
+
 1. Open the Streamlit application.
 2. Upload the student's audio recording.
 3. Enter the expected answer.
@@ -192,35 +193,47 @@ This project is developed under the **APSCHE Google Generative AI Cloud Program*
 7. View AI feedback, strengths, weaknesses, and suggestions.
 8. Download the PDF evaluation report.
 
+
 📸 **Application Screenshots**
+
 1. Home Page
 Displays project information and available features.
+
+
 <img width="1773" height="946" alt="Screenshot 2026-07-06 211412" src="https://github.com/user-attachments/assets/31d2a3f4-fb8a-4713-ad61-4c0b98a00779" />
+
 <img width="1745" height="896" alt="Screenshot 2026-07-06 211423" src="https://github.com/user-attachments/assets/226f413a-3de1-4bec-b00a-71fcaff5f6d2" />
 
 
 2. Upload Audio
-Upload the student's voice recording and provide the expected answer. <img width="1847" height="947" alt="Screenshot 2026-07-06 211510" src="https://github.com/user-attachments/assets/2e60653f-4701-4d94-a3f6-4ab8a2b3d992" />
+Upload the student's voice recording and provide the expected answer.
+
+ <img width="1847" height="947" alt="Screenshot 2026-07-06 211510" src="https://github.com/user-attachments/assets/2e60653f-4701-4d94-a3f6-4ab8a2b3d992" />
 
 
 3. AI Analysis
-Speech is converted into text using Whisper AI and evaluated using Google Gemini AI.<img width="1868" height="939" alt="Screenshot 2026-07-06 211603" src="https://github.com/user-attachments/assets/58d447ca-8896-4471-896f-5fbf6c27955a" />
+Speech is converted into text using Whisper AI and evaluated using Google Gemini AI.
+
+<img width="1868" height="939" alt="Screenshot 2026-07-06 211603" src="https://github.com/user-attachments/assets/58d447ca-8896-4471-896f-5fbf6c27955a" />
+
 <img width="1733" height="863" alt="Screenshot 2026-07-06 211618" src="https://github.com/user-attachments/assets/8818a52e-ca17-4316-8443-fabf161bbc2b" />
 
 
 4. Dashboard
-Displays the similarity percentage, score, grade, transcript, and AI feedback.<img width="1814" height="867" alt="Screenshot 2026-07-06 211640" src="https://github.com/user-attachments/assets/4ffc9f3c-8e8a-4c04-a84e-a2214b29ef47" />
+Displays the similarity percentage, score, grade, transcript, and AI feedback.
+
+<img width="1814" height="867" alt="Screenshot 2026-07-06 211640" src="https://github.com/user-attachments/assets/4ffc9f3c-8e8a-4c04-a84e-a2214b29ef47" />
+
 <img width="1839" height="946" alt="Screenshot 2026-07-06 211701" src="https://github.com/user-attachments/assets/691b52d6-2fe3-4f97-bc73-c2e853559a63" />
 
 
 
-5. PDF Report
-Generates a downloadable professional PDF report containing the evaluation.<img width="1824" height="939" alt="Screenshot 2026-07-06 211724" src="https://github.com/user-attachments/assets/9a6f14e0-653c-4f8f-9fb1-abbe6c5536ce" />
+6. PDF Report
+Generates a downloadable professional PDF report containing the evaluation.
+
+<img width="1824" height="939" alt="Screenshot 2026-07-06 211724" src="https://github.com/user-attachments/assets/9a6f14e0-653c-4f8f-9fb1-abbe6c5536ce" />
+
 <img width="1920" height="1017" alt="Screenshot 2026-07-06 211734" src="https://github.com/user-attachments/assets/8f1e5471-80c5-4dc5-a537-c3166d826255" />
-
-
-
-
 
 
 ### Thank you for visiting our repository!
