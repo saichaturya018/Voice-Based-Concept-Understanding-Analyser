@@ -288,12 +288,15 @@ Computer Science and Engineering (Data Science)
 
 ## 👨‍💻 Project Team
 
-| Name | Role |
-|------|------|
-| **Amjuri Sai Chaturya** | **Team Leader** |
-| **Jami Yuktasri** | Member |
-| **Patnana Mahesh** | Member |
-| **Vayalapalli Maneesha** | Member |
+This project was collaboratively developed by the following team members as part of the academic project at **Anil Neerukonda Institute of Technology and Sciences (ANITS)**.
+
+| Name | Role | GitHub Profile |
+|------|------|----------------|
+| **Amjuri Sai Chaturya** | **Team Leader** | [@SaiChaturya](https://github.com/saichaturya018) |
+| **Jami Yuktasri** | Team Member | [@Yuktasri](https://github.com/jamiyuktasri24csd-afk) |
+| **Patnana Mahesh** | Team Member | [@Mahesh](https://github.com/maheshpatnana25) |
+| **Vayalapalli Maneesha** | Team Member | [@Maneesha](https://github.com/vayalapallimaneesha) |
+
 
 ---
 
