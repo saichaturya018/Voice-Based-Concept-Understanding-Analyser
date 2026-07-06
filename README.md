@@ -181,6 +181,41 @@ This project is developed under the **APSCHE Google Generative AI Cloud Program*
 
 7. **Open in browser**
    The app will open automatically at `http://localhost:8501`.
+🎯 Workflow
+1. Open the Streamlit application.
+2. Upload the student's audio recording.
+3. Enter the expected answer.
+4. Convert speech to text using Whisper AI.
+5. Evaluate the answer using Google Gemini AI.
+6. Generate similarity percentage, score, and grade.
+7. View AI feedback, strengths, weaknesses, and suggestions.
+8. Download the PDF evaluation report.
+
+📸 Application Screenshots
+1. Home Page
+Displays project information and available features.
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 211412" src="https://github.com/user-attachments/assets/d4dfec62-d5d9-4707-8cbe-826f5d910ca6" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 211423" src="https://github.com/user-attachments/assets/73df6483-177a-4ad0-b9cc-dde83335d19d" />
+
+
+2. Upload Audio
+Upload the student's voice recording and provide the expected answer. <img width="1920" height="1080" alt="Screenshot 2026-07-06 211510" src="https://github.com/user-attachments/assets/b933640c-ea74-444d-9064-016491afba1c" />
+
+3. AI Analysis
+Speech is converted into text using Whisper AI and evaluated using Google Gemini AI.<img width="1920" height="1080" alt="Screenshot 2026-07-06 211603" src="https://github.com/user-attachments/assets/5a0b5abc-692d-4439-9290-0674652f6346" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 211618" src="https://github.com/user-attachments/assets/a34e2a41-11b6-4eb2-a029-5f5aeceb2296" />
+
+4. Dashboard
+Displays the similarity percentage, score, grade, transcript, and AI feedback.<img width="1920" height="1080" alt="Screenshot 2026-07-06 211640" src="https://github.com/user-attachments/assets/90d44e4b-ad71-4761-9f65-880aa7a592c4" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 211701" src="https://github.com/user-attachments/assets/575692ea-e1d9-47ae-9a9a-9994956ebeb5" />
+
+
+5. PDF Report
+Generates a downloadable professional PDF report containing the evaluation.
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 211724" src="https://github.com/user-attachments/assets/e810246f-284f-4e13-8131-3488f6cc32dc" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-06 211734" src="https://github.com/user-attachments/assets/00de3d31-f472-42cb-9756-f5d6f4ddbee4" />
+
+
 
 ### Thank you for visiting our repository!
 
