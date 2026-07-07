@@ -8,7 +8,7 @@
 # 1. Sai Chaturya Amjuri
 # 2. Yukta Sri Jami
 # 3. Mahesh Patnana
-# 4. Vayalapalli Maneesha
+# 4. Maneesha Vayalapalli
 
 
 #This project is developed as a part of Apsche Google Cloud Generative AI Internship 2026
