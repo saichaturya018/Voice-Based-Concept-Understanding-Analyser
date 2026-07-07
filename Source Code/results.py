@@ -18,7 +18,7 @@ else:
     }
 
     display_results(sample_results)
-
+    
     pdf_buffer = generate_pdf_report(sample_results)
     st.download_button(
         label="📥 Download PDF Report",
